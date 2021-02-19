@@ -30,3 +30,8 @@ This is a generalized Sudoku Solver in C++ i.e. N X N Sudoku.
 <li> Command - g++ -std=c++17 Sudoku_Solver.cpp </li>
 </ul>
 </ul>
+
+## Preview
+
+![Sudoku Solver pic]()
+
