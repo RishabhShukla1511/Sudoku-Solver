@@ -35,5 +35,5 @@ This is a generalized Sudoku Solver in C++ i.e. N X N Sudoku.
 
 ![Sudoku Solver pic](https://github.com/RishabhShukla1511/Sudoku-Solver/blob/main/Image/Sudoku%20Solver%20Pic.PNG)
 
-## Further scope
+## Further Scope
 Add GUI and deploy it over web or an app
