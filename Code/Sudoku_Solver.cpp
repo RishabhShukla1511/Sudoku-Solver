@@ -43,10 +43,10 @@ bool solve2(vector<vector < int>> &sudoku, int x, int y)
 	int N = sudoku.size();
 	for (int i = x; i < N; i++)
 	{
-		int j = 0;
+		int j;
 		if (i == x)
 			j = y + 1;
-		for (; j < N; j++)
+		for (j = 0; j < N; j++)
 		{
 			if (sudoku[i][j] == 0)
 			{
