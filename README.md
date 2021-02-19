@@ -5,8 +5,9 @@ General Sudoku Solver in C++
 Interested ones can give this a read - https://en.wikipedia.org/wiki/Sudoku
 
 ## About
-This is a generalized Sudoku Solver in C++ i.e. N X N Sudoku. User needs to enter the size of the Sudoku which is N and all entries.
+This is a generalized Sudoku Solver in C++ i.e. N X N Sudoku.
 <ul>
+  <li> User needs to enter the size of the Sudoku which is N and all entries. </li>
 <li> The algorithm uses Backtracking to get to a possible solution </li>
   <ul>
     <li> It is possible to have many other solutions for the same Sudoku </li>
