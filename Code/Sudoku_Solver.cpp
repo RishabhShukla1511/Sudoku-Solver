@@ -3,7 +3,7 @@
 using namespace std;
 
 void print(vector < vector < int >> & sudoku) {
-  cout << "Below is the solved Sudoku\n";
+  cout << "\nBelow is the solved Sudoku\n";
   int N = sudoku.size();
   for (int i = 0; i < N; i++) {
     for (int j = 0; j < N; j++)
